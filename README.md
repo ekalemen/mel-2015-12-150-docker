@@ -2,6 +2,7 @@
 Dockerfile and scripts for creating and running Docker image with MGC installed tools
 
 Files:
+
 1.Dockerfile - File for bild Docker image
 
 2.license.txt - MGC license file for ethernet MAC address 02:42:ac:11:00:02 (this MAC address is provided to image by Docker daemon in build time if no any other Docker images have been running).
